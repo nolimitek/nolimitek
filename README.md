@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Chris 👋
+I'm a developer and maker from Austria, passionate about 3D printing and open-source technology.
+🔧 What I'm working on
+3DSearch.net — The 3D Model Search Engine
+A multilingual search engine that lets you find 3D printable models across multiple platforms in one place.
 
-<!--
-**nolimitek/nolimitek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 4.8M+ indexed models from Printables, Thingiverse, MakerWorld, MyMiniFactory, Cults3D & MakerOnline
+🌍 6 languages — English, German, French, Spanish, Italian, Dutch
+⚡ Instant search powered by Meilisearch
+📱 PWA — available as Android app via Google Play
+🛠️ Built-in browser slicer via Kiri:Moto integration
 
-Here are some ideas to get you started:
+👉 Try it: 3dsearch.net
+🛠️ Tech Stack
+PHP MariaDB Meilisearch JavaScript Node.js Apache/Nginx Cloudflare Linux
+📫 Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 3dsearch.net
